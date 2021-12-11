@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#"></a>. Monroe, USA
+description: <a href="#">Monroe, Lousiana, USA</a>
 
 profile:
   align: right
