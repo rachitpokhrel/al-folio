@@ -6,7 +6,7 @@ description: <a href="#">Louisiana Tech University</a>Ruston, LA, USA, 71272
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_rachit.jpg
   address: >
     <p></p>
     <p>3928 Desiard ST</p>
