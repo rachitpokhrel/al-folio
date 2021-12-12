@@ -6,7 +6,7 @@ description: <a href="#">Monroe, Lousiana, USA</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic
   address: >
     <p></p>
     <p>3928 Desiard ST</p>
