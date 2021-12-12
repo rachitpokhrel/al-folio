@@ -14,7 +14,7 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 Rachit Pokhrel is currently working on computational analysis and Modeling. He holds a Masters in Engineering and Technology Management. He also has a Bachelors in Chemical Engineering. All from Louisiana Tech University.
