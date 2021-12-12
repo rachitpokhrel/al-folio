@@ -8,7 +8,7 @@ middle_name:
 last_name: Pokhrel
 email: rachit.pokhrel@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  
+  Footer
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🔥 # the emoji used as the favicon
