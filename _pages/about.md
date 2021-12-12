@@ -17,8 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Rachit Pokhrel is a PhD canditate at Louisiana Tech University. He holds a Masters in Engineering and Technology Management. He also has a Bachelors in Chemical Engineering.
+
+Rachit Pokhrel (Writer/ Essayiest/ Scientist/ Researcher) is a PhD canditate at Louisiana Tech University in Computational Analysis and Modeling. He holds a Masters in Engineering and Technology Management. He also has a Bachelors in Chemical Engineering.
 
 Previously, he has worked as a computer programmer at Barclaycard USA and General Motors. He has launced more than 5 ios application to lauch from inception.
 
-Apart from being intrigued by Analyses he is also interested in Startups, Coding, Travelling, Yoga and more.
+Apart from being intrigued by Analyses he is also interested in Startups, Coding, Travelling, writing and more.
